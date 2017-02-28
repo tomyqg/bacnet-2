@@ -1,0 +1,6 @@
+{
+	"method": "get datalink status",
+	"dl_type": "bip",
+	"service": "get bdt",
+	"port_id": 0
+}

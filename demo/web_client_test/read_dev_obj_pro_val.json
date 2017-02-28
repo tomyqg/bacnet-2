@@ -1,0 +1,8 @@
+{
+	"method": "read device object property value",
+	"device_id": 1,
+	"object_type": 2,
+	"object_instance": 0,
+	"property_id": 85,
+	"array_index": -1
+}

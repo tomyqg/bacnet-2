@@ -1,0 +1,6 @@
+{
+	"method": "read device object property list",
+	"device_id": 1,
+	"object_type": 1,
+	"object_instance": 1
+}
